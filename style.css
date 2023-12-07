@@ -9,6 +9,7 @@
     margin-bottom: 30px;
     padding: 20px;
     max-height: 1200px
+    flex-basis: auto;
 }
 .division{
     max-width: 300px;
